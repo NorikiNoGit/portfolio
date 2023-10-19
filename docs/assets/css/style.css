@@ -257,7 +257,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #d92cf9;}
     font-size: 16px;
     color: #999fb3;
     padding: 35px 0 43px;
-    border-bottom: 1px solid #999fb3;
+    /* border-bottom: 1px solid #999fb3; */
 }
 .single-about-add-info {
     margin: 35px 0;
@@ -380,6 +380,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
     text-transform: uppercase;
     padding-bottom: 50px;
     border-bottom: 1px solid #e5ebf2;
+    
 }
 .single-progress-txt {
     display: flex;
@@ -855,6 +856,11 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
 /*========================Thank you================= */
 
 .top-spacer{padding-top: 90px;}
+.section-heading-spacer{
+    padding-top: 50px;
+    margin-top: 10px;
+    border-top: 1px solid #e5ebf2;
+}
 
 
 
