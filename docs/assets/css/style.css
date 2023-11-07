@@ -869,3 +869,11 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
 .project-content{margin-top: 50px;}
 /* .OsaroPic1{margin: 70px 0;} */
 /* project1 */
+
+.portfolio-thumbnail {
+    width: 10%; /*親要素の幅の50%に設定 */
+    /* width: 200px; 幅を200ピクセルに設定 */
+    height: auto; /* 高さを自動調整してアスペクト比を維持 */
+  }
+
+  
